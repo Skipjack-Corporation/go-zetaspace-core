@@ -1,0 +1,8 @@
+--- 
+host: localhost
+port: 8888
+type: tcp
+country: ph
+name: st-ph001
+path: .zet-st
+key: 38f0e152-39a4-4ef0-896f-fc1debcd3e7c
